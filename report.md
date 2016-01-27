@@ -1,16 +1,15 @@
 UECM3033 Assignment #1 Report
 ========================================================
 
-- Prepared by: ** Put your name here**
-- Tutorial Group: T2/T3
-
+- Prepared by: ** Low Kok Chung**
+- Tutorial Group: T2
 --------------------------------------------------------
 
 ## Task 1 -- setup a github repository
 
 The reports, codes and supporting documents are uploaded to Github at: 
 
-[https://github.com/your_github_id/UECM3033_assign1](https://github.com/your_github_id/UECM3033_assign1)
+[https://github.com/LowKokChung/UECM3033_assign1](https://github.com/your_github_id/UECM3033_assign1)
 
 
 ---------------------------------------------------------
@@ -37,10 +36,10 @@ Here are the examples of how to add equations in markdown:
 $$\int_0^{\infty} e^{-x^2} dx = \frac{\sqrt{\pi}}{2}.$$
 
 \begin{align*}
-3 x_0 +x_1 &= 9,\\
-x_0 + 2 x_1 &= 8.
+3 x_0 +x_1 + 5 x_2 + 9 x_3 + 8 x_4&= 21,\\
+x_0 + 2 x_1 + 4 x_2 + 7 x_3 + 6 x_4 &= 48.
 \end{align*}
 
 -----------------------------------
 
-<sup>last modified: change your date here</sup>
+<sup>last modified: 27.1.2016</sup>
