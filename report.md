@@ -34,7 +34,7 @@ In this section, please report:
 
 Here are the examples of how to add equations in markdown:
 
-$$\int_0^{\infty} e^{-x^2} dx = \frac{\sqrt{\pi}}{2}.$$
+$$\int_0^{\infty} e^{-x^2} dx = \frac{\sqrt{\pi}}.$$
 
 \begin{align*}
 3 x_0 +x_1 + 5 x_2 + 9 x_3 + 8 x_4&= 21,\\
